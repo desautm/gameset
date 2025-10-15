@@ -1,0 +1,16 @@
+---
+title: "SET GAME AND MATCH"
+author: "Marc-André Désautels"
+format: 
+  revealjs:
+    incremental: true
+editor: visual
+title-slide-attributes:
+  data-background-color: "black"
+highlight-style: github-dark
+execute: 
+  cache: true
+---
+
+# Une présentation sur SET
+
